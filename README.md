@@ -19,8 +19,6 @@ This repository contains a custom-trained **YOLOv11s** object detection model fo
 - **Trained Classes**: `arrow_left`, `arrow_right`
 - **Training Epochs**: 60
 - **Input Image Size**: 640x640 pixels
-- **Training Hardware**: NVIDIA RTX 3050 GPU
-
 ---
 
 ## 🚀 Getting Started
